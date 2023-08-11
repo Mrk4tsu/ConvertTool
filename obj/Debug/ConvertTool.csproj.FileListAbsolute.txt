@@ -1,0 +1,13 @@
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\bin\Debug\ConvertTool.exe.config
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\bin\Debug\ConvertTool.exe
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\bin\Debug\ConvertTool.pdb
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.csproj.AssemblyReference.cache
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.Form1.resources
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.Properties.Resources.resources
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.csproj.GenerateResource.cache
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.csproj.CoreCompileInputs.cache
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.csproj.Fody.CopyLocal.cache
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.csproj.CopyComplete
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.exe
+E:\Học Tập\CSharp\ConvertTool\ConvertTool\obj\Debug\ConvertTool.pdb
